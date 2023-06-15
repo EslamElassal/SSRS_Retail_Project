@@ -1,4 +1,4 @@
- ## Order Summary
+ ## Retail Report Screenshots 
  
 This page indicates the details of order quantities and their contribution to revenue
 
